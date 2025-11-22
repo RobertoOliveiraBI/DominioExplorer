@@ -1,0 +1,5 @@
+{
+  "name": "DomínioBR Explorer",
+  "description": "Ferramenta avançada para filtrar e buscar domínios em processo de liberação no Registro.br, com busca semântica potencializada por IA.",
+  "requestFramePermissions": []
+}
